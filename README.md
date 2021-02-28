@@ -20,3 +20,25 @@ A dataset on the support for populist parties in elections for the European Parl
 | `radicalright` | Populist party: Radical right
 | `leftwing` | Populist party: Left-wing
 | `valence` | Populist party: Valence
+
+## Citation
+
+If you cite the data, please use the following citation:
+
+> Zulianello, M. & E. G. Larsen. 2021. Populist parties in European Parliament elections: A new dataset on left, right and valence populism from 1979 to 2019. Electoral Studies 71: 102312.
+
+BibTeX: 
+
+```
+@article{zulianello2021ppepe,
+  title={Populist parties in European Parliament elections: 
+  A new dataset on left, right and valence populism from 1979 to 2019},
+  author={Zulianello, M. and Larsen, E. G.},
+  journal={Electoral Studies},
+  volume={71},
+  number={},
+  pages={102312},
+  year={2021},
+  publisher={Elsevier Ltd.}
+}
+```
